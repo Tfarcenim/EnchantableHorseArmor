@@ -1,6 +1,5 @@
 package tfar.enchantablehorsearmor.mixin;
 
-import net.minecraft.enchantment.EnchantmentType;
 import net.minecraft.item.HorseArmorItem;
 import net.minecraft.item.Item;
 import org.spongepowered.asm.mixin.Mixin;
